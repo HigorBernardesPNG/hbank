@@ -1,16 +1,10 @@
-![Typescript: orientação a objetos](https://imgur.com/9399vxd.png)
+Minibanco digital desenvolvido com TypeScript, HTML e CSS. O projeto conta com funcionalidades como depósitos, transferências e pagamento de boletos, permitindo simular operações bancárias em pequena escala.
 
-# Typescript: orientação a objetos
+Todas as transações realizadas são exibidas imediatamente e armazenadas no localStorage, garantindo a persistência dos dados mesmo após o fechamento do navegador. Além disso, o código foi estruturado com modulação, tornando o projeto mais organizado e escalável.
 
-Este projeto faz parte da escola Front-end e tem como objetivo ensinar a transformar trechos de código originalmente cosntruídos em programação funcional para programação orientada a objetos, destacando as diferenças entre os dois paradigmas.
+Principais funcionalidades:
 
-## Funcionalidades do projeto
-
-O projeto contará com o desenvolvimento de:
-
-- Classe conta e armazenador;
-- Atributos e construtor de conta;
-- Modificadores de acesso;
-- Métodos estáticos;
-- Herança de classes;
-- Decorators de validação.
+**Realização de depósitos e transferências;
+Pagamento de boletos;
+Armazenamento das transações no localStorage;
+Atualização automática do saldo e do extrato.**
