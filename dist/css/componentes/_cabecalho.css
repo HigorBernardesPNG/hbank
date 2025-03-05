@@ -1,0 +1,41 @@
+.topo {
+    background-color: var(--cor-primaria);
+    color: var(--cor-secundaria);
+    font-size: var(--fonte-t3);
+    padding-block: 30px;
+    margin-bottom: 24px;
+
+    .usuario {
+        & span {
+            margin-right: 40px;
+        }
+    }
+}
+
+
+.topo img {
+
+    width: 180px;
+
+}
+
+.usuario img {
+
+    width: 40px;
+
+}
+
+@media (max-width: 950px) {
+    .topo img {
+
+        width: 104px;
+    
+    }
+    
+    .usuario img {
+    
+        width: 32px;
+    
+    }
+}
+
