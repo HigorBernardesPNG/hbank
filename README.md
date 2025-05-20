@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/a3d860d4-b5e1-4971-a93f-b673e25712e3)
+
+
 # 🏦 HBank – Simulador de Internet Banking
 
 **HBank** é um projeto de minibanco digital desenvolvido com **TypeScript**, **HTML** e **CSS**, idealizado para simular operações bancárias básicas em ambiente local. O foco está no aprendizado de lógica bancária, manipulação de dados com `localStorage` e arquitetura modular escalável.
